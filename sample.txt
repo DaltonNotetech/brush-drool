@@ -1,0 +1,9 @@
+package com.company.license
+
+rule "Is of valid age"
+when
+    Applicant( age < 18 )
+    $a : Application()     
+then
+    $a.setValid( false );
+end
