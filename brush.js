@@ -101,7 +101,7 @@ function Brush() {
 		"while"
 	].join(' ');
 
-	var functions = [
+	var constants = [
 		"AbstractMethodError",
 		"AssertionError",
 		"ClassCircularityError",
@@ -194,6 +194,13 @@ function Brush() {
 		"String",
 		"Object"
 	].join(' ');
+	
+	var functions = [
+		"retract",
+		"update",
+		"modify",
+		"insert"
+	].join(' ');
 
 	this.regexList = [
 		{
@@ -239,6 +246,10 @@ function Brush() {
 		{
 			regex: new RegExp(this.getKeywords(functions), 'gm'),
 			css: 'functions'
+		},
+		{
+			regex: new RegExp(this.getKeywords(constants), 'gm'),
+			css: 'constants'
 		}
 	];
 
