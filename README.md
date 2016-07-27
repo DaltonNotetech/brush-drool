@@ -1,5 +1,5 @@
 # brush-drools
-[Drools](http://docs.jboss.org/drools/release/7.0.0.Beta1/drools-docs/html_single/#d0e7474) brush module for [SyntaxHighlighter](https://github.com/syntaxhighlighter/syntaxhighlighter).
+[Drools](http://www.drools.org/) brush module for [SyntaxHighlighter](https://github.com/syntaxhighlighter/syntaxhighlighter).
 
 ## Usage
 
