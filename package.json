@@ -1,0 +1,35 @@
+{
+	"name": "brush-drools",
+	"version": "4.0.1",
+	"description": "Drools brush module for SyntaxHighlighter.",
+	"keywords": [
+		"syntaxhighlighter",
+		"brush",
+		"drools"
+	],
+	"homepage": "https://github.com/DaltonNotetech/brush-drools",
+	"bugs": "https://github.com/DaltonNotetech/brush-drools/issues",
+	"author": {
+		"name": "Dalton Dhavarev",
+		"url": "https://github.com/DaltonDh"
+	},
+	"main": "brush.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/DaltonNotetech/brush-drools.git"
+	},
+	"scripts": {
+	},
+	"dependencies": {
+		"brush-base": "^4.0.0",
+		"syntaxhighlighter-regex": "^4.0.0"
+	},
+	"devDependencies": {
+		"syntaxhighlighter-match": "^4.0.0"
+	},
+	"engines": {
+		"node": ">=4",
+		"npm": ">=2"
+	},
+	"license": "MIT"
+}
