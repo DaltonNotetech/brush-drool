@@ -7,4 +7,4 @@ Please see [Building Instructions](https://github.com/syntaxhighlighter/syntaxhi
 
 ## License
 
-[MIT](http://spdx.org/licenses/MIT)
+[MIT](https://opensource.org/licenses/MIT)
