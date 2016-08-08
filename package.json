@@ -5,7 +5,8 @@
 	"keywords": [
 		"syntaxhighlighter",
 		"brush",
-		"drools"
+		"drools",
+		"drl"
 	],
 	"homepage": "https://github.com/DaltonNotetech/brush-drools",
 	"bugs": "https://github.com/DaltonNotetech/brush-drools/issues",

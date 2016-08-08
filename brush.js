@@ -194,7 +194,7 @@ function Brush() {
 		"String",
 		"Object"
 	].join(' ');
-	
+
 	var functions = [
 		"retract",
 		"update",
